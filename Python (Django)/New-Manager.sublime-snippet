@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[class ${1:ClassName}(${2:models.Manager}):
+	def ${3:method_name}(self):
+		${5:return super($1, self).get_query_set()}]]></content>
+    <tabTrigger>manager</tabTrigger>
+    <scope>source.python</scope>
+    <description>New Django Model Manager</description>
+</snippet>

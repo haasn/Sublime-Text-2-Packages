@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"font_face": "Menlo",
+	"translate_tabs_to_spaces": true,
+    "wrap_width": 78,
+    "indent_subsequent_lines": false,
+    "draw_minimap_border": true,
+    "save_on_focus_lost": true,
+    "fallback_encoding": "UTF-8",
+    "default_line_ending": "unix"
+}
