@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:field_name} = models.ForeignKey(${2:Model})]]></content>
+    <tabTrigger>fk</tabTrigger>
+    <scope>source.python</scope>
+    <description>Foreign Key Field</description>
+</snippet>
