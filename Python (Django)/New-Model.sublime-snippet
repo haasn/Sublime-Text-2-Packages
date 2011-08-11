@@ -1,7 +1,9 @@
 <snippet>
     <content><![CDATA[class ${1:ClassName}(${2:models.Model}):
+    $4
+
 	def __unicode__(self):
-		return ${5:super($1, self).__unicode__()}]]></content>
+		return ${3:super($1, self).__unicode__()}]]></content>
     <tabTrigger>model</tabTrigger>
     <scope>source.python</scope>
     <description>New Django Model</description>
