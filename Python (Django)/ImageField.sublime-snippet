@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:field_name} = models.ImageField(upload_to='${2:images}')]]></content>
+    <tabTrigger>image</tabTrigger>
+    <scope>source.python</scope>
+    <description>Image Field</description>
+</snippet>
